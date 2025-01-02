@@ -2,4 +2,4 @@ Hi
 Hello
 Before git pull and git fetch
 This update is for git pull
-This update is for git fetch and git merge
+This update is for git fetch and git merge.
